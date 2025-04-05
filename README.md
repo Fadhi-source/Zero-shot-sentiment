@@ -1,4 +1,5 @@
-# IMDb Zero-Shot Sentiment Analysis 🎬
+# Zero-Shot Sentiment Analysis 🎬
+
 
 A zero-shot learning approach to classify IMDb movie reviews as positive/negative without labeled training data.
 
